@@ -1,2 +1,2 @@
 # hello-worldy
-yuan here, I am Chinese, and I love to learn.
+yuan here，and I love to learn.
